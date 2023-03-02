@@ -1,0 +1,4 @@
+name: Paper CombatMechanics
+version: '${project.version}'
+main: tk.airshipcraft.papercombatmechanics.CombatMechanics
+api-version: 1.19
